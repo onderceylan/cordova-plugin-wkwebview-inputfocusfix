@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<plugin id="cordova-plugin-wkwebview-inputfocusfix" version="1.0.0"
+<plugin id="cordova-plugin-wkwebview-inputfocusfix" version="1.0.1"
         xmlns="http://cordova.apache.org/ns/plugins/1.0"
         xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:rim="http://www.blackberry.com/ns/widgets"
