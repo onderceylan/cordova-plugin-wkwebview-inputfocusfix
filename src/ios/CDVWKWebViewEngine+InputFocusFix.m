@@ -18,6 +18,7 @@
 }
 
 // https://github.com/Telerik-Verified-Plugins/WKWebView/commit/04e8296adeb61f289f9c698045c19b62d080c7e3
+// https://stackoverflow.com/a/48623286/3297914
 - (void) keyboardDisplayDoesNotRequireUserAction {
     Class class = NSClassFromString(@"WKContentView");
     NSOperatingSystemVersion iOS_11_3_0 = (NSOperatingSystemVersion){11, 3, 0};
