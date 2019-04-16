@@ -8,7 +8,7 @@
     "url": "git+https://github.com/onderceylan/cordova-plugin-wkwebview-inputfocusfix"
   },
   "name": "cordova-plugin-wkwebview-inputfocusfix",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cordova plugin for fixing auto focus issue of html elements on WKWebView",
   "cordova": {
     "id": "cordova-plugin-wkwebview-inputfocusfix",
